@@ -1,5 +1,4 @@
 # unity-raymarched-metaball
 Using raymarching to create a simple world space metaball scene
 
-https://user-images.githubusercontent.com/50963416/158285452-5fb92152-f4d2-4738-b37e-d19c7f5194fc.mp4
-
+![ezgif com-gif-maker (17)](https://user-images.githubusercontent.com/50963416/158285551-96340390-8d0c-406f-9127-3aa09dc8b064.gif)
